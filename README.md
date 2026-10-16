@@ -2,15 +2,7 @@
 
 # Imudist: הורדות
 
-כאן מורידים את Imudist ל-Windows ול-Mac. הקישורים **קבועים** ותמיד מובילים לגרסה האחרונה.
-
-## גרסה רגילה
-
-| מערכת | הורדה |
-|---|---|
-| Windows | [Imudist-Windows.exe](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest/Imudist-Windows.exe) |
-| Mac עם שבב Apple (M1 ומעלה) | [Imudist-Mac-AppleSilicon.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest/Imudist-Mac-AppleSilicon.dmg) |
-| Mac עם מעבד Intel | [Imudist-Mac-Intel.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest/Imudist-Mac-Intel.dmg) |
+כאן מורידים את גרסת הניסיון של Imudist ל-Windows ול-Mac. הקישורים **קבועים** ותמיד מובילים לגרסה האחרונה.
 
 ## גרסת ניסיון (180 יום מההפעלה הראשונה)
 

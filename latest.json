@@ -1,7 +1,7 @@
 {
   "version": "0.0.37",
   "notes": "",
-  "pub_date": "2026-10-16T11:24:16.614Z",
+  "pub_date": "2026-10-16T11:24:37.987Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnA5NnArZkJDZXhiUUljaVB3WHY1OWxmNi9PWGVsQURCSGZWNXRMVktScmUwZnErOW5USE0ySGJPRGpHdllqV1hOc3psVDJzSk1OYlJTVG42MkF6SHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ3OTgzCWZpbGU6SW11ZGlzdF8wLjAuMzdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC4zNwovMnhMbkJPRUxxbXJ4eGtHb2ZYaHVYWTJ6ZTZsSkhmVmlnQ0w2UFY0Y01TQ1VzemRDNkZFNHBaUVZhVWQwckIzeVEwY1R4RXBpWW5MU0hoazZYZmNEZz09Cg==",
@@ -10,6 +10,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm1QNFVwMjRZQW90UklHRmdJTXB3aWFrZUFQK1lEMDlidllWR1lCSEZYZTFkS1cvNVEvMmEwbk52aFR1T09RR3FyY2phbXBvS0gyMW8zdWxkanlJYkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ4MDcxCWZpbGU6SW11ZGlzdC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjM3ClFsUGRCWk1IZUk5cmszQ0JiTnZyTmFXaDYzeEhEZ0JwVVg0a3dFc004T0RIb1g2V0NsM0xTOTVRV3lQdEhERitsZmF6MzFwRFBPVVdPMGxmWGVNNENnPT0K",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.37/Imudist_0.0.37_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnZxOFE0SHo1T3dVNVE1M0NZYk5ZeEV4RG4xZmpveDEwaHd3T1NtMnpRYkoxRDRvVERmYWVnUE8wZzVNQnFNa0s0bG1wOXRGZzhzL0pEb1piZlFwTUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ4MTk3CWZpbGU6SW11ZGlzdC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjM3CktjczBCUnhPdTUrVlNuTE9NYjlMSStBSFNwd2hqYmlHWGszZWpvZTVQSEE0a3VRU3YrMGpOSWhpTlFHUGhSTmRNTlBiUWNEZHdHVGZ1RHRjTTZKb0R3PT0K",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.37/Imudist_0.0.37_x86_64.app.tar.gz"
     }
   }
 }

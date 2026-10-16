@@ -1,0 +1,11 @@
+{
+  "version": "0.0.37",
+  "notes": "",
+  "pub_date": "2026-10-16T11:24:06.228Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnA2QUswWGYyNEtNUFNIczd2ZzA0V2hBMEFqam1NN3FveUNpdllNZ3JURUZtUUZBK1daZ1RnT043a0ROZk5pbFh3bGFBNVNqQUVGVEgrM3RHb0ltN0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTQ4MTQ1CWZpbGU6SW11ZGlzdF8wLjAuMzdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC4zNwpXdFJKOU16VjVGQ2w0WEtVRG5PUVBwSTVhWkNWMklVSW9lODc1d1dsVEMzOFBIbnhnREV1SWFoYk9ZSmNWYURTbjFGcWhIMmZOQ1lrMEdDUjZHSXBBUT09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.37-trial/Imudist_0.0.37-trial-180d_x64-setup.exe"
+    }
+  }
+}

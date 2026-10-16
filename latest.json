@@ -1,7 +1,7 @@
 {
   "version": "0.0.38",
   "notes": "בדיקת העדכון האוטומטי: גרסה זו זהה לקודמת, והיא נועדה לוודא שהתוכנה מורידה ומתקינה עדכון בעצמה.",
-  "pub_date": "2026-10-16T12:04:42.918Z",
+  "pub_date": "2026-10-16T12:05:02.935Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnNBTkhQSERCYVM1ejNtTEVUbmUrQ0grbE03NDJ4Wmo0bUNOdGVHb09nUHVRYWRnMUQycFdkZnl3UXFFcEdCYUxPVDBjOE1MYk9SMW5BVVVnZDhPT2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTUwNTM4CWZpbGU6SW11ZGlzdF8wLjAuMzhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC4zOApmN3F3TUgraGRSWENieXNKQ0ZpVVBBakF6ME42U203RnB3TWcwOFFJa0hrQWwvVkVuSGhBdEpwLzB4ZjdDbzZuTVgrcnlKWTlrSjNBaTNScCtqMDJDQT09Cg==",
@@ -10,6 +10,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnRQelBNR3Z6dlBWUWp2bE5ZMnJzMlNrd3dZR2twWVA2dVlkN3l4UFZkT0tsQ2tFSktaQzZKUmpwdFFLcEZJd3BPMUdYUXcrUDRCa2JtWWRWeFFxOVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTUwNjAyCWZpbGU6SW11ZGlzdC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjM4CjNEM2Z5RytvZVJJR1lBUU1NR2w5WUxiTTEyL2R2VTVZM25EU2E1Q0pCSUFYUVlpUzNoM2c1MHJCQ05YOVhHM04zK05ndDZIdUpET0F1OVh5eURwMkN3PT0K",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.38/Imudist_0.0.38_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm5pckhiNjM2citGQkRYN3ZVSVl6c2RBZ3VHalZtSFdCZ3IrRER2M1FXR0RKUnA1QmhESy9nc3p5WUsyZ0x6UXJNWlJIOGJ6MmZWTGZhbDl2UDI4ZWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTUxMDAxCWZpbGU6SW11ZGlzdC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjM4CnROQ1hqYW1Qaml5Q0sxaUJDN1NBTldXQVZxMkVKQ1NiWEFKdkxMVXpNc1F5QW8yMWZwZVV6d2ZuaXNUSTNqN0gvT1pRQm5vdXZPMGhyVW9GQW1JK0RRPT0K",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.38/Imudist_0.0.38_x86_64.app.tar.gz"
     }
   }
 }

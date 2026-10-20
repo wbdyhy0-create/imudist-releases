@@ -12,6 +12,18 @@
 | Mac עם שבב Apple (M1 ומעלה) | [Imudist-Trial-Mac-AppleSilicon.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial/Imudist-Trial-Mac-AppleSilicon.dmg) |
 | Mac עם מעבד Intel | [Imudist-Trial-Mac-Intel.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial/Imudist-Trial-Mac-Intel.dmg) |
 
+<!-- trial30:start -->
+## גרסת 30 יום (מההפעלה הראשונה)
+
+תוכנה נפרדת: היא מותקנת **לצד** הגרסה הקיימת ולא מחליפה אותה.
+
+| מערכת | הורדה |
+|---|---|
+| Windows | [Imudist-Trial30-Windows.exe](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/Imudist-Trial30-Windows.exe) |
+| Mac עם שבב Apple (M1 ומעלה) | [Imudist-Trial30-Mac-AppleSilicon.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/Imudist-Trial30-Mac-AppleSilicon.dmg) |
+
+<!-- trial30:end -->
+
 ## איך מתקינים
 
 1. שומרים את המסמכים הפתוחים וסוגרים את התוכנה.

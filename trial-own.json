@@ -1,11 +1,15 @@
 {
   "version": "0.0.39",
   "notes": "דגימה מ-PDF של עמוד אחד (סגנונות פסקה, יישור, חלונות, מילות פתיחה וגופנים), ורצף גם לעמוד בלי דפוס חוזר.\nדגימה מהירה תופסת את העיצוב המלא של הדוגמה: גודל, יישור ומרווחים.\nהחלה לפי מראה: פסוקים וכותרות שבאמצע הטקסט מקבלים את הסגנון שלהם.\nייבוא קובצי doc ישנים דרך Word המותקן, Ctrl+Shift+End לבחירה עד סוף הטקסט, ורווחים בחלון ייבוא Word.",
-  "pub_date": "2026-10-22T11:52:32.945Z",
+  "pub_date": "2026-10-22T11:52:43.955Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmc2dTNjNldqTnc5NjNQTzZmVXphU0NLUFcxbEFOVVJjWEtmTUdleS9LSkR1SzZTdjQ2QlZHdXVwd0tHNkFkUU1kelpMdnNhVVhOMmZOVTZuOGVTbUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY5ODE0CWZpbGU6SW11ZGlzdCBUcmlhbCAzMF8wLjAuMzlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC4zOQpzc1BGeXZYMFY2c0RodHBnb2JxdUdrY3ZEN1lWUHVKVi9lMytVQlI3L2M1c0NDMWZyc0N6UEVRdXFjajdCRmVBZGlzLzBZci9UMmdIWUE3RGEvaE1BUT09Cg==",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.39-trial30/Imudist-Trial30_0.0.39_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnNiK05uRlhabWZIb1l3ays5Rm91OG9FRGhmZFlwMStmNXpLT1F4K2NXd3hFYitiS2xjdG8wTFRJbGZYQXZnZkhCaTVZaGJPNTZuYXl6anlid1BkZWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjY5NjQ1CWZpbGU6SW11ZGlzdCBUcmlhbCAzMC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjM5CkxNSmpHSy9IbkswK2tubUYxSFFTaW94T1pSczkwY2pHbTIrV1pDZUJaK1BrYjQzcFA3NkRXUEJZY0VVdStZQmNDY3ErVHNvTGlTcEVlZk5yWU9pbkFBPT0K",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.39-trial30/Imudist-Trial30_0.0.39_aarch64.app.tar.gz"
     }
   }
 }

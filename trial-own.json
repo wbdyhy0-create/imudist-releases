@@ -1,7 +1,7 @@
 {
   "version": "0.0.39",
   "notes": "דגימה מ-PDF של עמוד אחד (סגנונות פסקה, יישור, חלונות, מילות פתיחה וגופנים), ורצף גם לעמוד בלי דפוס חוזר.\nדגימה מהירה תופסת את העיצוב המלא של הדוגמה: גודל, יישור ומרווחים.\nהחלה לפי מראה: פסוקים וכותרות שבאמצע הטקסט מקבלים את הסגנון שלהם.\nייבוא קובצי doc ישנים דרך Word המותקן, Ctrl+Shift+End לבחירה עד סוף הטקסט, ורווחים בחלון ייבוא Word.",
-  "pub_date": "2026-10-22T14:26:15.076Z",
+  "pub_date": "2026-10-22T14:26:23.321Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm9TS3VOdzd3a0JmdWNVVWNxWjdjckpxMVVQZTg2UG1vWEZobVN6c2QxRkY3K050bTIwd0g4b05ldDhETHd1Z1ZPdmxsbHZyTWUyei95anFKc2QrN3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc4MzgxCWZpbGU6SW11ZGlzdCBUcmlhbCAzMF8wLjAuMzlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC4zOQpDRjgra01jK3E3a0U4T0E4SS9RS3dKanh2cktKYVhuNzBkeVVUcHZqc2pQVWlmQytKUUtCZmF2TTFtKzJZdnRERm93WlRwWTJRQ2d3ZnBGZVpyYmJDQT09Cg==",
@@ -10,6 +10,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm1zOUMycXFSSVhML0srRmRmWlJzREFrcWJhaytiU0pPdlRLOWNDSWxPUHNPL0lTNEJOanVHNy9YbFIxR3IyZWVmQ3lva2h3QlBWWklwQyswMmpObFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc4MzM1CWZpbGU6SW11ZGlzdCBUcmlhbCAzMC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjM5CkZBdW83ZjhHR0ZYQ0VHdHhlV1cwQUYrbFJzeWowVTVZTURjRHFpYmFGbE5jVmM0NVNPTzM3ZEJDOHYrVTVtQjJVVWIxcDRsNzJHN2NEZ2RHamgyWkFnPT0K",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.39-trial30/Imudist-Trial30_0.0.39_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnR5bi9yd2pjLzRRZzBzNmgvVGIxajBxalNkUkYwQkxXWTBkV085VW1Jb1VQeDdPVlpXa2piVk9WRWhTd0puWnUwcGRFUmlYMnppZFNvRXd2SnJrd0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjc4OTkyCWZpbGU6SW11ZGlzdCBUcmlhbCAzMC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjM5CnRqcjh1UDRqK3dEa3RVNU5lTUY4bi8wK3d6cmxtVnFLTEhSN2JSU0NGdnBtc1BCTmV3UG90ejNrOHBzMWxmMVVrOEU3bmxhTjF3amRZT1VWb08ycUNnPT0K",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.39-trial30/Imudist-Trial30_0.0.39_x86_64.app.tar.gz"
     }
   }
 }

@@ -4,14 +4,6 @@
 
 כאן מורידים את גרסת הניסיון של Imudist ל-Windows ול-Mac. הקישורים **קבועים** ותמיד מובילים לגרסה האחרונה.
 
-## גרסת ניסיון (180 יום מההפעלה הראשונה)
-
-| מערכת | הורדה |
-|---|---|
-| Windows | [Imudist-Trial-Windows.exe](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial/Imudist-Trial-Windows.exe) |
-| Mac עם שבב Apple (M1 ומעלה) | [Imudist-Trial-Mac-AppleSilicon.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial/Imudist-Trial-Mac-AppleSilicon.dmg) |
-| Mac עם מעבד Intel | [Imudist-Trial-Mac-Intel.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial/Imudist-Trial-Mac-Intel.dmg) |
-
 <!-- trial30:start -->
 ## גרסת 30 יום (מההפעלה הראשונה)
 

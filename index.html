@@ -21,6 +21,8 @@
   a.button.secondary { background: transparent; color: var(--accent); border: 1px solid var(--accent); }
   ol { margin: 0; padding-inline-start: 22px; }
   li { margin: 6px 0; }
+  ul { margin: 4px 0 0; padding-inline-start: 20px; }
+  code { font-family: Consolas, Menlo, monospace; font-size: 12px; padding: 1px 5px; border-radius: 4px; background: rgba(127, 127, 127, 0.16); unicode-bidi: isolate; word-break: break-all; }
   small { color: var(--dim); }
 </style>
 </head>
@@ -48,7 +50,13 @@
       <li>שומרים את המסמכים הפתוחים וסוגרים את התוכנה.</li>
       <li>מתקינים את הקובץ שהורד <strong>מעל</strong> הגרסה הקיימת. המסמכים וההגדרות נשארים.</li>
       <li><strong>Windows:</strong> אם מופיע "Windows protected your PC", לוחצים "מידע נוסף" ואז "הפעל בכל זאת".</li>
-      <li><strong>Mac:</strong> גוררים את Imudist ל-Applications. בפעם הראשונה לוחצים ימני על התוכנה ואז "פתח".</li>
+      <li><strong>Mac:</strong> גוררים את Imudist ל-Applications ופותחים. בפעם הראשונה macOS חוסם את התוכנה (היא עוד לא רשומה אצל Apple):
+        <ul>
+          <li>בהודעה לוחצים <strong>Done</strong> (לא "Move to Trash"), פותחים <strong>הגדרות המערכת ← פרטיות ואבטחה</strong>, גוללים למטה, לוחצים <strong>Open Anyway</strong> ("פתח בכל זאת") ומאשרים בסיסמה. צריך לעשות את זה פעם אחת בלבד.</li>
+          <li>ב-macOS 14 ומטה אפשר גם ללחוץ ימני על התוכנה ואז "פתח".</li>
+          <li>אם כתוב שהתוכנה "פגומה": פותחים את Terminal, מריצים <code dir="ltr">xattr -dr com.apple.quarantine &quot;/Applications/Imudist Trial 30.app&quot;</code> ופותחים שוב.</li>
+        </ul>
+      </li>
     </ol>
     <p><small>אחרי ההתקנה הראשונה התוכנה מתעדכנת לבד: כשיוצאת גרסה חדשה מופיעה בה הודעה, ולחיצה אחת מתקינה אותה.</small></p>
   </section>

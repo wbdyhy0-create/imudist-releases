@@ -1,11 +1,15 @@
 {
   "version": "0.0.44",
   "notes": "",
-  "pub_date": "2026-11-04T05:01:25.168Z",
+  "pub_date": "2026-11-04T05:01:28.561Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnNCS3JOMTUrWDlOc2xzNU9kVGhFaUFWRStVS2JBaGpGbjQ1YjdOTTJ2eFRJT0pqRzYvUWU4VEVRczJQZG9TcWRud2M1bzRZakRhamdhS1YxbFpZNVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4MTc2CWZpbGU6SW11ZGlzdCBUcmlhbCAzMF8wLjAuNDRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC40NApUaWk5SHVyeTJJblczSlBId3hxdWpxeW5Nc1NqZEkrWUdPTVpqV25kRjBnTU1LQ3c2UlhVaG81UVJna0ZQTTJ5TW5ZL0JJTWlBZktBZHJzQjBWY0RCdz09Cg==",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.44-trial30/Imudist-Trial30_0.0.44_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmorTVpCSHkxNXZVUndyUWd6R1Jpei9NNmZ2S3k5VE9NOHN6bTVTbWxuNWJSS1ZVM1RJOFhJQ0ZvcFcrNDloN3JsWDZWUWh2cjNxL09vd2VDRG9rSVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzY4NDMxCWZpbGU6SW11ZGlzdCBUcmlhbCAzMC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjQ0CjM0aGhKQjRhR0F5YnMwWTVvalZTMEJaRVozVm51a2QzYndwZzY5czZNZ29RRE1mTHlLUENrRDMvR3VxbkorSGl1emtjS1RHdG1OaEFualBVMklxQUNRPT0K",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.44-trial30/Imudist-Trial30_0.0.44_aarch64.app.tar.gz"
     }
   }
 }

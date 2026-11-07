@@ -1,19 +1,11 @@
 {
-  "version": "0.0.44",
+  "version": "0.0.45",
   "notes": "",
-  "pub_date": "2026-11-04T05:01:32.871Z",
+  "pub_date": "2026-11-07T19:44:42.828Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnNCS3JOMTUrWDlOc2xzNU9kVGhFaUFWRStVS2JBaGpGbjQ1YjdOTTJ2eFRJT0pqRzYvUWU4VEVRczJQZG9TcWRud2M1bzRZakRhamdhS1YxbFpZNVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM4MTc2CWZpbGU6SW11ZGlzdCBUcmlhbCAzMF8wLjAuNDRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC40NApUaWk5SHVyeTJJblczSlBId3hxdWpxeW5Nc1NqZEkrWUdPTVpqV25kRjBnTU1LQ3c2UlhVaG81UVJna0ZQTTJ5TW5ZL0JJTWlBZktBZHJzQjBWY0RCdz09Cg==",
-      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.44-trial30/Imudist-Trial30_0.0.44_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmorTVpCSHkxNXZVUndyUWd6R1Jpei9NNmZ2S3k5VE9NOHN6bTVTbWxuNWJSS1ZVM1RJOFhJQ0ZvcFcrNDloN3JsWDZWUWh2cjNxL09vd2VDRG9rSVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzY4NDMxCWZpbGU6SW11ZGlzdCBUcmlhbCAzMC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjQ0CjM0aGhKQjRhR0F5YnMwWTVvalZTMEJaRVozVm51a2QzYndwZzY5czZNZ29RRE1mTHlLUENrRDMvR3VxbkorSGl1emtjS1RHdG1OaEFualBVMklxQUNRPT0K",
-      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.44-trial30/Imudist-Trial30_0.0.44_aarch64.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmhBVTBnNnRNSytUU3RJRUNacy91TXJBV042OTh0aVMvNUcvOTF3ZUsxRStoamgwbXUyS3FobVdQay9TSWY5TC9obEtUMTN0a016VEFaSlFGMDV5a2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNzM3OTE3CWZpbGU6SW11ZGlzdCBUcmlhbCAzMC5hcHAudGFyLmd6CXZlcnNpb246MC4wLjQ0CnlmZ3Btamc1MlJ3WExpcDhxSzFMV0ZnQkNSaEpEcVBML0pBUVpROVFKbUw1cjk3eFRFVWgveGYzc2tsT0tPVXN5QjEwOHFlZ1ZyK2I2VWNlOXlFK0RnPT0K",
-      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.44-trial30/Imudist-Trial30_0.0.44_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnFmdlErMk01MndWd0NiQWN1T0hIUFFhM3YwMk1jMGp1Z3JjNWd4amZMY2tUeGwxY25yeGx0Uyt6UGM3dHNhU1YvZlNWaU9FR3BWVWR3TFY1VHptMXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MDgwMTYxCWZpbGU6SW11ZGlzdCBUcmlhbCAzMF8wLjAuNDVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMC40NQpvYjVVK0lyKzg5M2J0WGV4ZUkzWkJLRHBlOW0wNldKeFhDNlZwK0xnRzFwY05YUVdpbXFzc3BjYy90Z1o5Mkl5VVVUZTQ2Mk1YWm5JVEpMTlN2SnNDdz09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.45-trial30/Imudist-Trial30_0.0.45_x64-setup.exe"
     }
   }
 }

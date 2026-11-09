@@ -7,8 +7,6 @@
 <!-- trial30:start -->
 ## גרסת 30 יום (מההפעלה הראשונה)
 
-תוכנה נפרדת: היא מותקנת **לצד** הגרסה הקיימת ולא מחליפה אותה.
-
 | מערכת | הורדה |
 |---|---|
 | Windows | [Imudist-Trial30-Windows.exe](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/Imudist-Trial30-Windows.exe) |

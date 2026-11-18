@@ -1,7 +1,7 @@
 {
   "version": "0.0.50",
   "notes": "",
-  "pub_date": "2026-11-18T11:58:22.356Z",
+  "pub_date": "2026-11-18T11:58:26.028Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmpnS3laT0xQdzZubzhNY3JsYkxrQ25IbWN5ZzkydHVhK2ZEdHQ2SmFENFovWWZ0ZDIzZEtvL1IzY0NsL1hxcE8rWC9RV0tzY2pYYkVEb2dHaWJBT2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMTg4CWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjUwX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTAKRmNHSTVFZDBLTXJ0dXlLWkVaR0tyemYzcmJlNGFpTytlMlRrb1dTN1pZTElWWVBJdnU2blYvWXRPdGZscHc1b0o1NXBtR1d5VlliV3BtV3NOYzVhRGc9PQo=",
@@ -10,6 +10,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnVGOFluaWZUTUh5eDhkMDJOZDBNdlpoU2JhU1ZrbGcwdlJWVFBwNDMyUVRoTlZhV3dOcTZraXhJL0pudUcvY2hVYVBDdHJIMGowSlhjaWN0WjZxbkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyMjM1CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41MAphWUpJVy9yWFJZNnNzd2QzLzl5RGVhcUVYaDY3WkV5Vk1mOFpGVEt0b0MrTHFyM0QxUFl6QUFVcjg2NXZSY05rYjhNMndVMDc0VHVzNDlrMFFZL3ZBUT09Cg==",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.50-trial30/eMood-Trial30_0.0.50_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnJUTnNLVzhCWm5Eamxvb3VyenhFNmRkRmx1V2ZIM21HdzJxbnMxQUdjK3FtOGppMXBvdjFienBGN3RadWs1dk9mMnhpdGlpYkNITnoraUxpVzJMdmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDAyOTIyCWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41MApYZGJwckZOVlc3U0ptNVArY3gyN3M2R2NSQzErVDhYK2c3UEM3dUJJWEtGMElrQjM3b2VMZDJ4RittUEhWM1B0R1RLSVFoQ0xsQlp3akp1TE5sWHlEdz09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.50-trial30/eMood-Trial30_0.0.50_x86_64.app.tar.gz"
     }
   }
 }

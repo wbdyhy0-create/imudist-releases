@@ -9,9 +9,9 @@
 
 | מערכת | הורדה |
 |---|---|
-| Windows | [Imudist-Trial30-Windows.exe](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/Imudist-Trial30-Windows.exe) |
-| Mac עם שבב Apple (M1 ומעלה) | [Imudist-Trial30-Mac-AppleSilicon.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/Imudist-Trial30-Mac-AppleSilicon.dmg) |
-| Mac עם Intel | [Imudist-Trial30-Mac-Intel.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/Imudist-Trial30-Mac-Intel.dmg) |
+| Windows | [eMood-Trial30-Windows.exe](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/eMood-Trial30-Windows.exe) |
+| Mac עם שבב Apple (M1 ומעלה) | [eMood-Trial30-Mac-AppleSilicon.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/eMood-Trial30-Mac-AppleSilicon.dmg) |
+| Mac עם Intel | [eMood-Trial30-Mac-Intel.dmg](https://github.com/wbdyhy0-create/imudist-releases/releases/download/latest-trial30/eMood-Trial30-Mac-Intel.dmg) |
 
 <!-- trial30:end -->
 

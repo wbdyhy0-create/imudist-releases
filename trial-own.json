@@ -1,11 +1,15 @@
 {
   "version": "0.0.51",
   "notes": "",
-  "pub_date": "2026-11-19T11:04:44.686Z",
+  "pub_date": "2026-11-19T11:04:48.544Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm5uSmpvVkNOM2ZuOHJENSsrNmdlTUtuNnBvMzBUcFhCVjN6ZWZiL0M0NTM4aURRZFdIQUFHbnAwWWpQcGxsRGVIMjZvNkgxTW4wWGhkV3F0WG1aNVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg1NzUyCWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjUxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTEKaklMTXc1by9xZjUwQmtvQjR2ZDYyT1JIelB1cnFuSVNvbTJWSVpxZjdYVDFPRTVzSHpBRkVkTzdMb0pnNGswcXhiVmZHSlRXclFGS2RQeXgwcm52Q1E9PQo=",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.51-trial30/eMood-Trial30_0.0.51_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnRvZnVjaEgrOURVL1NUU1NKK2NHSFY0ck1tQU14QlpyR3V4MklabXpKUXRBbVpkUXU1U1VMSFRmQUNzTTVoU0pseHNuYUhoM1V3bVU1UkJJUmVnR0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg1ODYyCWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41MQowZE00R2k2YmowQkpnRW1lazM5Z1B3Nkdrb0FuL1BCUHBXOER6alpmdVcvUXR1OGprR01EOTY2TkpITVJ5REN0amlZRFJGTmM0QUpkeUV3eW56M2dEQT09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.51-trial30/eMood-Trial30_0.0.51_aarch64.app.tar.gz"
     }
   }
 }

@@ -1,19 +1,11 @@
 {
-  "version": "0.0.51",
+  "version": "0.0.52",
   "notes": "",
-  "pub_date": "2026-11-19T11:04:52.459Z",
+  "pub_date": "2026-11-19T19:18:51.949Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm5uSmpvVkNOM2ZuOHJENSsrNmdlTUtuNnBvMzBUcFhCVjN6ZWZiL0M0NTM4aURRZFdIQUFHbnAwWWpQcGxsRGVIMjZvNkgxTW4wWGhkV3F0WG1aNVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg1NzUyCWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjUxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTEKaklMTXc1by9xZjUwQmtvQjR2ZDYyT1JIelB1cnFuSVNvbTJWSVpxZjdYVDFPRTVzSHpBRkVkTzdMb0pnNGswcXhiVmZHSlRXclFGS2RQeXgwcm52Q1E9PQo=",
-      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.51-trial30/eMood-Trial30_0.0.51_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnRvZnVjaEgrOURVL1NUU1NKK2NHSFY0ck1tQU14QlpyR3V4MklabXpKUXRBbVpkUXU1U1VMSFRmQUNzTTVoU0pseHNuYUhoM1V3bVU1UkJJUmVnR0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg1ODYyCWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41MQowZE00R2k2YmowQkpnRW1lazM5Z1B3Nkdrb0FuL1BCUHBXOER6alpmdVcvUXR1OGprR01EOTY2TkpITVJ5REN0amlZRFJGTmM0QUpkeUV3eW56M2dEQT09Cg==",
-      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.51-trial30/eMood-Trial30_0.0.51_aarch64.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmlxS0VWTm9MRCtBSGNIK2dKajNTVndicGFrSGNZSnZxNWtjTzlEdjhHeFU2dmVNa3lvaVhWOVY2OXlnMmw5SU8yMGJTN0ZLMFFOYlJTQ3d4elZ4aXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDg2MTc3CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41MQpBTHgxSHh2d0pHTUNYSzE4aWVxNEF1c096cmNYbGZGMkxPcHdtYWNGem91aVNLL2hwQkVMM1dwcUZmZjdvWDVsUzBsRHpoZXVORGQ5VytJS0Qxbk1DZz09Cg==",
-      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.51-trial30/eMood-Trial30_0.0.51_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmlIb05CVzVLNUZ4MWRPcE84cHBWMnR2SjUzQTdRcnpmVk5RS3UzcnN4NWp6eVpmNkxCdWNWSXdDa3BaeTkxMzh5NTRyc2ExQU13YTA3Q0RkK3ExUncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTE1NjMxCWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjUyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTIKSG45MWdWS2V0VEwxNElCSFBOQmQ2NWZ2ZkdpNlNDaTJYQ05Uajd0TzNBUUp5MTNVSjRvZ2RzWUxJVUNBd2tXdkdPZzJXeGk0ZjZlcXExbWV1eGUzQnc9PQo=",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.52-trial30/eMood-Trial30_0.0.52_x64-setup.exe"
     }
   }
 }

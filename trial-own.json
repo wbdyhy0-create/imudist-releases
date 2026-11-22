@@ -1,11 +1,15 @@
 {
   "version": "0.0.55",
   "notes": "חידושים\n• סמן הטקסט הטעון, אחרי ייבוא טקסט: הסמן הוא עמוד טקסט קטן עם תג צבעוני שמראה איך הלחיצה תזרים את הטקסט, והסרגל שהיה מעל העמוד הוסר (Esc עדיין מפיל את הטקסט). לחיצה רגילה מציבה את הטקסט במסגרת אחת, וזו ברירת המחדל החדשה. Shift מזרים אוטומטית ומוסיף עמודים לפי הצורך, Shift+Alt מזרים אוטומטית רק בעמודים הקיימים, ו-Alt מזרים חצי־אוטומטית. קודם Shift ו-Alt היו הפוכים.\n\nשיפורים\n• בחלונות הייבוא של Word ושל רב־טקסט אין יותר בחירה של אופן הזרימה: האופן נקבע לפי המקשים Shift ו-Alt שמחזיקים בלחיצה על כפתור הייבוא.\n• דרישת המינימום ירדה ל-macOS 10.15 (Catalina), במקום macOS 11, כדי ש-Mac עם Intel שאי אפשר לעדכן מעבר ל-Catalina יוכל להפעיל את התוכנה. ב-Mac כזה צריך Safari 15.6.1 או חדש יותר.\n\nתיקונים\n• אחרי ייבוא טקסט, לחיצה בכל מקום בתוך מסגרת טקסט ריקה מציבה שם את הטקסט, גם כשהמסגרת היא חלק משרשור של מסגרות ריקות (מסגרות טקסט אוטומטיות): הטקסט מתחיל במסגרת הראשונה בשרשור וזורם דרכן. קודם מסגרת כזאת בלעה את הלחיצה, ורק לחיצה ממש מחוץ למסגרת, בפינת השוליים, עבדה.",
-  "pub_date": "2026-11-22T05:35:04.730Z",
+  "pub_date": "2026-11-22T05:35:09.094Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnJtVTRXVDNVeGhNZGxyNEVMZ1NlNzJSTVRUZzJTekNPbjhMM0UzQ09nTUVWMVUvZEY3SzJ3T3RFZjA2WW5ra0RsL0xMZjMxVTJQU1dPQk16N242NUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI1MTAxCWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjU1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTUKQTZmcUFvYmYwN3A0dlVJWW1keUhzaUI2MG0zUmlQcTdoY2w0NXJVVk90b3FhbkpvRFRPSnZ5YWphL0hmaXNjMWx5Y3JzU1lDM1VJZE0zOHFIbTdFQUE9PQo=",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.55-trial30/eMood-Trial30_0.0.55_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm5kSmRQa2FvSEtIVGpVWThTWkRQT0NybEpEeWo4dzAwK0FSUE5LWXd6WThxd0UwcnNRZWZ4a2tKOTZCVjFBNDVLUlFTa0RDRjlrODE4S0IwQXBxU1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzI1MDkzCWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41NQprMDF0NnhzN1ZNZ0I5WmEvaFk2cEdxTmNudUZ5ditRNUV1VWVKcGpSQUxDNHltRWk2SENFaDdKOWdRNXpzaUJDNW5pVkUxbnJHVGxSMlhLSjJTeS9EUT09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.55-trial30/eMood-Trial30_0.0.55_aarch64.app.tar.gz"
     }
   }
 }

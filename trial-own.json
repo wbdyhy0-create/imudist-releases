@@ -1,11 +1,15 @@
 {
   "version": "0.0.57",
   "notes": "חידושים\n• שליטה בשכבות הריטוש בתפריט אובייקט > תמונה: ״הצגת שכבת הריטוש״ מכבה ומדליקה את כל הריטוש של התמונה הנבחרת, ״טלאי הריטוש…״ פותח רשימה שבה אפשר להסתיר, להציג או למחוק כל תיקון בנפרד, ו״הצגת שכבת השיבוט של העמוד״ ו״מחיקת שכבת השיבוט של העמוד…״ מסתירות ומוחקות את מה שצויר בחותמת השיבוט.\n• היפוך של תמונה בתוך מסגרת גרפית: ההיפוך של המסגרת משקף עכשיו גם את התמונה שבתוכה, במסך ובייצוא (PDF, PNG, SVG, IDML, Word וספרים).\n• תיקיות גופנים: בהעדפות, בקטגוריה ״טקסט״, אפשר לקשר תיקייה של קובצי גופן (TTF או OTF). הגופנים שבה מצטרפים לרשימת הגופנים בלי להתקין אותם במערכת.\n\nשיפורים\n• כלי הריטוש: חותמת השיבוט מראה את הפיקסלים המועתקים בזמן הגרירה, ל״כלי הסרה״ יש בסרגל העליון קשיחות משלו, משיכות של מברשת גדולה מחושבות מהר יותר, ותמונה שנבנתה מקובץ JPEG נשמרת כ-JPEG, ולכן הקובץ קטן בהרבה.\n• העזרה בתוכנה: נוסף נושא ״כלי הריטוש״ שמסביר איזה כלי מתאים למה, והנושאים של ארבעת הכלים תוקנו והורחבו (גודל המברשת, שיטות המילוי, ההקפה, שכבת השיבוט והמגבלות). תוקן גם כיוון המקשים: [ מגדיל את המברשת ו-] מקטין אותה.\n• טקסט על קו: הסרגל שמעל העמוד מציג רק את הפקדים שהציור משתמש בהם (בלי קו תחתון, קו חוצה, כתב עילי ותחתי, קנה מידה, הזזת קו בסיס והטיה).\n\nתיקונים\n• תמונה שנמצאת במסגרת גרפית נכללת עכשיו בייצוא ל-Word ול-EPUB זורם (עם החיתוך שלה), וב-IDML נשמרים מקומה וגודלה במסגרת. עד עכשיו תמונות כאלה נפלו מהייצוא הזה.\n• תמונה שנחתכה או הוזזה ביד משתנה עכשיו בגודלה יחד עם המסגרת שלה (שינוי גודל של קבוצה, קנה מידה והטמעה).\n• טקסט על קו: צבע המילוי בסרגל משנה עכשיו את צבע האותיות. ״בדיקה מול הדפוס״ מסבירה עכשיו למה היא לא עשתה דבר בעמודים שנבנו מ-PDF, במקום לא לעשות כלום בשקט.\n• תיקונים קטנים בכלי הריטוש ובסביבתם: אין משיכה בזמן שטקסט או תמונות ממתינים ללחיצה, Esc בתוך שדה או חלון שייך להם, מקור הדגימה משתחרר כשסוגרים מסמך, ושכבת השיבוט כבר לא גורמת באזהרת הבדיקה המקדימה על חוסר בלידה.",
-  "pub_date": "2026-11-24T13:30:52.532Z",
+  "pub_date": "2026-11-24T13:30:57.618Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnFucW5mUWYvc0k0aENDUDdWUmFUMVE1WmZXcCtuTE8zME95cnBzZ21SSG8xZWh2dlExb0dyWUo2RHJmR2dMZTgvU1c5Ylo1WnBGR1ExZ3ZPT1ZvYmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI2NTcxCWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjU3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTcKYlIyZlRjWXZOQS9nL3lJY2JId2NySFIvWlRPazZjcHZVV1gxYmdUaCtMbTkzZndhQUpkRDdkSE82L2t4azV0L1BCckU4cVZiSDZESE5DK2E3M2w0QUE9PQo=",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.57-trial30/eMood-Trial30_0.0.57_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnRqSk13ZHBvNXJCRm1RZjMxbTc5N1JwcmRyUXFZY2tmQ1c2a2hzYmxwcU1KOU5qZFZhb2ZHZnNOSjR1ZXpWVTNueEFZWWdYbU9hQlhHTCtnTTBLcGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTI2NDk4CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41Nwo0VHBRWHhROFhvNkFXN0hZd21TMGJaT1BSOEhJNUN6Wkx0OTFwVzNIRVFTMVpCT0szMlhzUEcrOU1WdWJVT1NMUmFTZm9VYkNjRzFjOEpWOGlwNmFDdz09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.57-trial30/eMood-Trial30_0.0.57_aarch64.app.tar.gz"
     }
   }
 }

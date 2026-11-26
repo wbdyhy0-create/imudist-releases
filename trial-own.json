@@ -1,11 +1,15 @@
 {
   "version": "0.0.58",
   "notes": "חידושים\n• אפקט תאורה בחלונית ״אפקטים״: מקורות אור רכים על תמונה או על צורה מלאה, לכל אחד צבע, עוצמה, ריכוך, גודל, זווית, מיקום ומצב מיזוג, וידיות על העמוד להזזה, לשינוי גודל ולסיבוב.\n• כלי המברשת: בוחרים מברשת ישירות מהסרגל העליון, עם תצוגה מקדימה של המברשת האחרונה, ואפשר להפוך משיכה שציירתם לקו מקווקו, מנוקד או מקף ונקודה.\n\nשיפורים\n• הסרגל העליון סודר מחדש בכלים רבים: בעט, בעיפרון, בקו, בקשת, בספירלה ובכלי הרשת הוא נשאר זהה לפני הציור ואחריו, והפקדים מסודרים בצפיפות.\n• בסרגל של אובייקט נבחר נמצאים עובי הקו, סוג הקו והשקיפות ליד הצבעים, וסרגל הטקסט מחולק לעיצוב תו ולעיצוב פסקה.\n• כלי הצורות והמסגרות הגרפיות: אותו סרגל לכולם, לחיצה על צורה בוחרת וגוררת אותה בלי לעבור לכלי הבחירה, ולחיצה כפולה על כלי הכוכב פותחת חלון הגדרות.\n• תמונות: תמונה שמציבים או מדביקים היא כברירת מחדל תמונה רגילה, בלי מסגרת גרפית; לחיצה על העמוד מציבה את מה שטעון בכל כלי, ולחיצה כפולה עורכת תמונה שבתוך מסגרת.\n• ייצוא IDML שומר את השכבות: שם, נראות, נעילה, הדפסה וסדר, וכל אובייקט נשאר בשכבה שלו.\n\nתיקונים\n• תוקנה תקלה בעיפרון שהוסיפה לקו, ברגע השחרור, שבירות וזוויות שלא צוירו.\n• במברשת, עובי הקו, קצות הקו וצבע קו המתאר בסרגל פועלים עכשיו על המשיכה שציירתם.\n• תוקנה השטחה של כמה אובייקטים נבחרים לתמונה אחת, והסרגל העליון נשאר יציב במעבר בין כלים.\n• עטיפת טקסט שמדליקים מהסרגל נותנת לטקסט את שני צידי האובייקט.",
-  "pub_date": "2026-11-26T08:32:27.156Z",
+  "pub_date": "2026-11-26T08:32:31.043Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmpWSm9KbS8yTHdURlRNVFFrSjdXYkkxREdWUTBCNGNNUWZ0Vy9ZMm5wVTZObWxERmNWMXNlakd6RG43Q3ZOdHh3d0p3NEM1Vnc2STRVMFJwWW5VM3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgxMDUyCWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjU4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTgKT3JLd3RPc2srVGVzOFFTWkVRUDdTK3NOdHVUbzhEN2MzOTR0emR0ODZyYUNoUmVBd0lTOHRkVjRud1dSVVE3Z0xpMW9qSHZRd0VvU01ZcjZiK1p4Q0E9PQo=",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.58-trial30/eMood-Trial30_0.0.58_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm1oOExyMXJaMHFxQ1lKTSswbGI2OWkwb2tiQjBuMjRXTjJmR0FOR2JqdnduQ25NOHNLRjdLbjMxbVhtY2VXU2FYditaUGJ3dno1eW1odTFKU0tDc3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjgxMTE1CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41OApvYTJPNGdlTEcrRWU3TXF1SXNzMU1VTDNlclJuQVg3dlF6eDZ1NitUYW9OemxoaXVRTW9UVjBCL2JVZ0pFWnllRmVCM3JoWmR2MC9TOHFETVVyaExDdz09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.58-trial30/eMood-Trial30_0.0.58_aarch64.app.tar.gz"
     }
   }
 }

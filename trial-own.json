@@ -1,7 +1,7 @@
 {
   "version": "0.0.59",
   "notes": "חידושים\n• קרניג בין שתי אותיות: בחלונית ״תו״ אפשר לבחור ״מטריקס״ (לפי הגופן), ״אופטי״ (לפי צורת האותיות) או 0, וכשהסמן בין שתי אותיות אפשר להקליד מספר לזוג הזה. Alt עם חץ ימינה או שמאלה מקרב או מרחיק את הזוג, ו-Ctrl+Alt+Q מאפס.\n• טור חלוניות שני: כפתור בראש עמודת החלוניות פותח עמודה נוספת של חלוניות פתוחות בקצה החלון. גוררים אליה קבוצות חלוניות או חלונות צפים, וסגירתה מחזירה אותם לעמודה הראשונה.\n• שמירה על רצף בסגנון פסקה: מספר השורות שנשמרות יחד בתחילת הפסקה ובסופה, ״שמור את כל שורות הפסקה יחד״, ו״התחלת הפסקה״: בכל מקום, בטור או במסגרת הבאה, בעמוד הבא, בעמוד אי זוגי או בעמוד זוגי.\n\nשיפורים\n• חלוניות צפות: כפתור ✕ סוגר חלון צף, גרירת לשונית החוצה מוציאה אותה לחלון משלה, וגרירת חלון אל הכותרת של חלון אחר מצרפת אותו אליו כלשונית.\n• ״פריסת פסקה״ על כמה טורים פועלת גם במסגרת טקסט שחולקה לטורים באפשרויות המסגרת, ולא רק בטורי העמוד.\n• העזרה: החיפוש מהיר יותר, ונוספו נושאים לקרניג, לחלוניות הצפות, לטור החלוניות השני ולשמירה על רצף.\n• פסי הגלילה של המסמך דקים ומתרחבים כשהעכבר עליהם, והאייקונים בשורות של חלוניות הסגנונות והשכבות ממורכזים.\n\nתיקונים\n• חלון ״אפשרויות סגנון פסקה״ שנפתח מחלונית כבר לא מוסתר מאחורי חלוניות צפות.",
-  "pub_date": "2026-11-26T12:45:35.498Z",
+  "pub_date": "2026-11-26T12:45:38.826Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm04UUtTbU9rdU05TW94TFpucWUzWTdqVktGUkdUMi8zYVVKaGtSSXNORkV0ZUhBTldrNm5qdEpHaC8yOENXVktSTk43SFE5bitya25wRkZJQi9GM1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk2OTc4CWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjU5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNTkKM2dpem45TmNuVnlDc2VjRFQ5R2IyVDFRZGQ5a2JkRHh1eWdtVHhKbW9qbzk2TnFKa2dra1dZUXhKZWlNUlNsRzdkSU5EQ0Y4cUJzQ1VsZnNZb2x3Q2c9PQo=",
@@ -10,6 +10,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmxTUFA1QjljeEIyQkI4aXBadm5mNWlITEZYTzlaeUhWbXFoWmtUMjE3aHFmVEFNS1NXL2xJTTRaaVl0Tkk0aEpKVVBlZC9BTkdNQjd4Nm1WS2FqRFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk2ODg5CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41OQo4Z29Oa2dBVE9sMVNac3FhMkk0V1p4dU5BeERHSHE3SUhldkl5eDlMVHRPRGsxbVVFNzFPQndGYTUvK1FBQ2E2RUdndmFTcUhSNFB5cG1nTzgyVXpBQT09Cg==",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.59-trial30/eMood-Trial30_0.0.59_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdm96WThCTUN0blFRSlZWdWx4ZzZhYklURmVaZWc1NDN2ZzZTUTNCUzVFSUZrdW1BZWVIY3FORFBnWmswcXZ1T0xJT1RXWXlkRlBod3VSY1Vwb2cxSFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk3MDI5CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC41OQpnTWdkcEZhUmZYdTFaZnhjc3NUMDZ6bStXOTVQeTlsWG40WFhCNzdYSDlQWVIyTE5wSExNVEtZY3YvYXRrbUxReVU0anRjY2tDZlI3S2I3NUk0djhEZz09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.59-trial30/eMood-Trial30_0.0.59_x86_64.app.tar.gz"
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "0.0.61",
   "notes": "חידושים\n• חלון הייצוא סודר בלשוניות: ב״קובץ״ > ״ייצא…״ מסמנים כמה פורמטים יחד. פורמט אחד שואל היכן לשמור, וכמה פורמטים נשמרים בתיקייה אחת בלי לדרוס קבצים קיימים.\n• בטבלאות: תא גרפי שמחזיק תמונה (בלחיצה כפולה או בהדבקה), ועמודות כותרת. התמונות נכללות בייצוא ל-PDF, לתמונה, ל-Word ול-EPUB זורם.\n• תפריט ״טבלה״ סודר מחדש ונוספו בו פקודות: הוספת כמה שורות או עמודות, בחירת כותרת, גוף ותחתונה, הדבקה לפני או אחרי, השוואת גובה ורוחב, מעבר לשורה, כיתוב וקווים אלכסוניים בתא.\n• תפריט ״תצוגה״ סודר מחדש ונוספו בו הדמיית צבעי הפלט, ביצועי תצוגה, סיבוב תצוגת הכפולה (גם בזמן עריכה) ותוספות תצוגה.\n• זום אישי: ברשימת הזום שבתחתית החלון, או ב״תצוגה״ > ״זום נוסף״, שומרים את הזום הנוכחי, חוזרים אליו בלחיצה ומוחקים אותו ב-X.\n\nשיפורים\n• שמירה אוטומטית: כל פעולת עריכה נרשמת מיד ביומן שחזור במחשב, וקובץ המסמך מתעדכן רק בשמירה (Ctrl+S). אם התוכנה נסגרה בפתאומיות, פתיחת אותו קובץ מחזירה את השינויים.\n• רשימת הזום שבתחתית החלון מציגה את הרמות 50%, 100%, 150% ו-200%.\n\nתיקונים\n• תיקונים בעריכת טבלאות ובקישור לקובצי Excel.\n• תצוגות הצבע מתחשבות ב״הדפסה מעל״ (Overprint).",
-  "pub_date": "2026-11-27T14:18:57.116Z",
+  "pub_date": "2026-11-27T14:19:00.517Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmpPQ3RIb0V0MUxjL21rVnpicjRCN0N4STRXRTNHN1BEODhjYnFqWTZKZzNzUkFzNStSREl5OS9tejFPdEZLVkJQTWtQQUxOc0FwbXcxekU3dnNyR3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg4NzcwCWZpbGU6ZU1vb2QgVHJpYWwgMzBfMC4wLjYxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjAuNjEKNTZaYVpzOWdIc2tsV0dxeG1lSHhnenFodWhqRjc3NzA5d2hUTHY2dm9kU3QxMkZJZW9TVXo5OVpab3llLzJGMVhXN3orZDRQVVJKMEIxa1N0VytCQ2c9PQo=",
@@ -10,6 +10,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdnVUMXNIVi81OTRWSU5SdGNKTVhUM3Y4dzhwREhRTVJVenN1VkxySkxOUTdkd1dKanVkK3k4cGdlZVdNZ2hJd2t1OW56Mytna3pIVUlpRUsyV2dQSmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg4NjY4CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC42MQpYbndlMG9qUDQzaWZLOUVDQnpmdExhL2IrMDN6eDlzb25RSkdmU0JZWU1KU3AvUnJQTEhSdEtuREliVmtIdzlJMzIwZkErVUlIUGhqOHk3ZGlXT0xEQT09Cg==",
       "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.61-trial30/eMood-Trial30_0.0.61_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWHphUEVIc0pmdmdQajJyTDhrMzR1dnJZOVRFZ0dielUvQUR5U1RrNFk5cDY0dHIxbmVnUnVvck1lVHp2QmY2N2Z5RTI4dU0ycTRFQ1F5eWVtYTk1TFpjWDNQMEdwN0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzg4OTY0CWZpbGU6ZU1vb2QgVHJpYWwgMzAuYXBwLnRhci5negl2ZXJzaW9uOjAuMC42MQpsVGt6TkFseTUzRUQ2VU92Vi9vMDNxclhxaWtYVXZMMmR0cWhSY3UwYUhBd3hpZlFGMzBnUm04TXNDQlVFUUZTQUpmWHVvSWdkMGJqYU93QnJ5VFNBQT09Cg==",
+      "url": "https://github.com/wbdyhy0-create/imudist-releases/releases/download/v0.0.61-trial30/eMood-Trial30_0.0.61_x86_64.app.tar.gz"
     }
   }
 }
